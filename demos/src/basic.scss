@@ -1,0 +1,31 @@
+$o-card-margintop: 0px;
+
+@import "../../main";
+
+.container-small  {
+	width:100px;
+	height:400px;
+	margin: 20px;
+	float:left;
+}
+
+.container-medium  {
+	width:200px;
+	height:400px;
+	margin: 20px;
+	float:left;
+}
+
+.container-medium-wide  {
+	width:400px;
+	height:400px;
+	margin: 20px;
+	float:left;
+}
+
+.container-large  {
+	width:400px;
+	height:400px;
+	margin: 20px;
+	float:left;
+}

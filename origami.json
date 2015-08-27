@@ -1,0 +1,19 @@
+{
+    "description": "Card",
+    "origamiType": "module",
+    "origamiVersion": 1,
+    "support": "https://github.com/Pearson-Higher-Ed/o-card/issues",
+    "supportStatus": "experimental",
+    "browserFeatures": {
+        "required": [
+            "classlist"
+        ]
+    },
+    "demos": [
+        {
+            "path": "/demos/Basic.html",
+            "expanded": true,
+            "description": "Showing basic usage of cards"
+        }
+    ]
+}
