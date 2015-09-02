@@ -1,26 +1,23 @@
 .o-card {
 	overflow: hidden;
 	text-align: center;
-	width:100%;
+	width: 100%;
 }
 
 .o-card--small {
 	height: $o-card--small;
-	margin-top: $o-card-margintop;
-	border : $o-card-border;
+	border: $o-card-border;
 	background-color: $o-card-background;
 }
 
 .o-card--medium {
-	border : $o-card-border;
-	margin-top: $o-card-margintop;
+	border: $o-card-border;
 	height: $o-card--medium;
 	background-color: $o-card-background;
 }
 
 .o-card--large {
-	border : $o-card-border;
-	margin-top: $o-card-margintop;
+	border: $o-card-border;
 	height: $o-card--large;
 	background-color: $o-card-background;
 }
