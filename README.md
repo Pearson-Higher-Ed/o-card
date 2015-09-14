@@ -1,4 +1,4 @@
-# O-Card
+# O-Card [![Build Status](https://travis-ci.org/Pearson-Higher-Ed/o-card.svg)](https://travis-ci.org/Pearson-Higher-Ed/o-card)
 
 A set of classes to define sizing for all the cards and their respective sizes within an application.
 
